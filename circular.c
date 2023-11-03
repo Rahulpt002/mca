@@ -109,11 +109,11 @@ break;
 case 2:
 dequeue();
 break;
-/*case 3:
+case 3:
 printf("enter elemant you want to search:");
 scanf("%d",&value);
 search(value);
-break;*/
+break;
 case 4:
 exit(0);
 }
